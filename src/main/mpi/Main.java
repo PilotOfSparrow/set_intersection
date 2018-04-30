@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
- * Compile an run only through command line with FastMPJ
+ * Compile an run only through command line with FastMPJ. Cautions: before compilation delete "package mpi" from first line
  */
 
 public class Main {
